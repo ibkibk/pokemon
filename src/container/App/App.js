@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import '../App/App.css';
 import CardList from '../../component/CardList/CardList';
-
 import Header from "../../component/Header/Header";
 import Routes from "../../Routes/Routes";
 // import SearchBar from "../../component/SearchBar/SearchBar"
